@@ -5,7 +5,6 @@ let cs = 0;
 const choices = document.querySelectorAll(".choice");
 const paragr = document.querySelector("#msg");
 const winMessage = document.getElementById('win');
-#52
 const generatecomchoices = () => {
     const options = ["rock", "paper", "scissors"];
     const index = Math.floor(Math.random() * 3);
