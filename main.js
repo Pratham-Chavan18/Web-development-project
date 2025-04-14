@@ -10,7 +10,6 @@ const generatecomchoices = () => {
     const index = Math.floor(Math.random() * 3);
     return options[index];
 };
-
 const drawgame = () => {
     paragr.innerText = "Draw";
     paragr.style.backgroundColor = "black";
