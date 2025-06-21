@@ -1,2 +1,2 @@
 # MINI PROJECT ON ROCK, PAPER AND SCISSOR
-using HTML, CSS and Javascript.
+using HTML, CSS & Javascript.
