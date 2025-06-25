@@ -23,5 +23,18 @@ A responsive and modern web application built using HTML, CSS, JavaScript, and o
 - **JavaScript**
 - *(Optional: Add frameworks like Bootstrap, jQuery, etc. if used)*
 
-## 📁 Folder Structure
+## 📌 Usage
+Use this project as a portfolio website, a landing page demo, or to practice front-end development. You can customize styles, content, and structure based on your needs.
+
+## 💡 Future Enhancements
+Add dark mode toggle 🌙
+
+Improve mobile responsiveness 📱
+
+Integrate backend (e.g., Node.js or Firebase) 🔧
+
+## 🙌 Acknowledgements
+Inspired by modern UI/UX trends
+
+Open-source icons and fonts from Font Awesome and Google Fonts
 
