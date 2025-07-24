@@ -1,5 +1,5 @@
 # MINI PROJECT ON ROCK, PAPER AND SCISSOR
-using HTML, CSS & Javascript.
+using HTML5, CSS & Javascript.
 
 A responsive and modern web application built using HTML, CSS, JavaScript, and other web technologies. This project demonstrates core front-end development skills, interactive UI design, and responsive layout techniques.
 
